@@ -62,7 +62,7 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output
-<img width="794" height="386" alt="image" src="https://github.com/user-attachments/assets/edc785ac-4f29-4be1-a9aa-471acc80f5c7" />
+<img width="760" height="367" alt="image" src="https://github.com/user-attachments/assets/f5fd6608-d2b1-444b-8c9e-248e4976cb6d" />
 
 ## Result
 the above program is done and output is verfied successfully
