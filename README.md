@@ -79,7 +79,6 @@ else:
 
 ```
 ## Output
-<img width="509" height="363" alt="image" src="https://github.com/user-attachments/assets/7c13cb68-dec8-4c6a-bb81-21ea1e8d114e" />
 
 ```
 Series Queues with Infinite Capacity - Open Jackson Network
